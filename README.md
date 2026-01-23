@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Sushant, I'm a Engineering Student from India. Intreseted in Web Development !!
+
+- 🌱 I’m currently learning jAVA Web Developement ...
+- 📫 Also I'm learning the Machine Learning... 
+- 👯 I’m recently built a JS project called "SUMMIT SAGA", check it out [here](https://sumitsaga.vercel.app/search)...
+
 <!--
 **SKSalunkhe/SKSalunkhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
