@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Sushant, I'm a Engineering Student from India. Intreseted in Web Development !!<br><br>🌱 I’m currently learning jAVA Web Developement ...<br>📫 Also I'm learning  Machine Learning...<br>👯 I’ve recently built a JS project called "SUMMIT SAGA", check it out [here](https://sumitsaga.vercel.app/)...<br>📫 How to reach me:<br>Linkedin : [SKSalunkhe](https://www.linkedin.com/in/sushant-k-salunkhe-a70a34297/)...<br>E-mail : sushantksalunkhe11@gmail.com
+My name is Sushant, I'm a Engineering Student from India. Intreseted in Web Development !!<br><br>🌱 I’m currently learning jAVA Web Developement ...👯 I’ve recently built a JS project called "SUMMIT SAGA", check it out [here](https://sumitsaga.vercel.app/)...<br>📫 How to reach me:<br>Linkedin : [SKSalunkhe](https://www.linkedin.com/in/sushant-k-salunkhe-a70a34297/)...<br>E-mail : sushantksalunkhe11@gmail.com
  
 
 ## 🌐 Socials:
